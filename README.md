@@ -1,2 +1,2 @@
 # Pneumonia-Detection
-Detect Pneumonia in medical images using machine learning
+Detect Pneumonia in medical images using deep learning.
