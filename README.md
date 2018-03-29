@@ -1,2 +1,2 @@
-# Pneumonia-Detection
-Detect Pneumonia in medical images using deep learning.
+# Image Classification using CIFAR-10 dataset
+
