@@ -1,0 +1,6 @@
+round_epochs,val_loss,val_acc,loss,acc,batch_size,epochs,dropout,optimizer,losses,activation,last_activation
+6,0.7442983431249857,0.7682999981045723,0.34769688789062203,0.8778999929606914,34,6,0,<class 'keras.optimizers.Nadam'>,<function categorical_crossentropy at 0x000001A42B5AF378>,<function relu at 0x000001A42B5C6488>,<function softmax at 0x000001A42B5C6158>
+7,0.015602668470237405,0.78900001257658,0.010175732460440486,0.8656500079855323,35,7,0,<class 'keras.optimizers.Adam'>,<function logcosh at 0x000001A42B5AF2F0>,<function elu at 0x000001A42B5C6268>,<function sigmoid at 0x000001A42B5C6598>
+7,0.8807810446768999,0.7785999983549118,0.2664155011307448,0.9049999909996986,30,7,0,<class 'keras.optimizers.Adam'>,<function categorical_crossentropy at 0x000001A42B5AF378>,<function relu at 0x000001A42B5C6488>,<function sigmoid at 0x000001A42B5C6598>
+7,0.8002191748395562,0.7948000122308732,0.22768828264437616,0.9188500048518181,45,7,0,<class 'keras.optimizers.Nadam'>,<function categorical_crossentropy at 0x000001A42B5AF378>,<function elu at 0x000001A42B5C6268>,<function softmax at 0x000001A42B5C6158>
+6,0.7374008165836334,0.779900002002716,0.3049622444689274,0.8950499992370605,48,6,0,<class 'keras.optimizers.Nadam'>,<function categorical_crossentropy at 0x000001A42B5AF378>,<function elu at 0x000001A42B5C6268>,<function softmax at 0x000001A42B5C6158>

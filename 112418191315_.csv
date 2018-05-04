@@ -1,0 +1,2 @@
+round_epochs,val_loss,val_acc,loss,acc,batch_size,epochs,dropout,optimizer,losses,activation,last_activation
+9,0.9147373433858156,0.7922999976873398,0.14692078131518793,0.9466999890059232,30,9,0,<class 'keras.optimizers.Nadam'>,<function categorical_crossentropy at 0x000001A823F519D8>,<function elu at 0x000001A823F7F8C8>,<function softmax at 0x000001A823F7F7B8>
